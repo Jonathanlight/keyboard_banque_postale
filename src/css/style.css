@@ -1,0 +1,31 @@
+#username{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.title{
+	font-size: 19px;
+	text-align: center;
+	color: white !important;
+}
+
+#password{
+	-webkit-text-security: square;
+	text-align: center;
+}
+
+::-webkit-input-placeholder {
+	font-style: italic;
+}
+
+:-moz-placeholder {
+	font-style: italic;  
+}
+
+::-moz-placeholder {
+	font-style: italic;  
+}
+
+:-ms-input-placeholder {  
+	font-style: italic; 
+}
